@@ -3,14 +3,11 @@ Microsoft: DAT101x Introduction to Data Science
 Read  : https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/ 
 
 
-
-
-
 # Table of Contents
-1. [Module 1: An Introduction to Data](#Module 1: An Introduction to Data)
-2. [Module 2: Data Analysis Fundamentals](#Module 2: Data Analysis Fundamentals)
-3. [Module 3: Getting Started with Statistics](#Module 3: Getting Started with Statistics)
-4. [Module 4: Machine Learning Basics](#Module 4: Machine Learning Basics)
+1. [Module 1: An Introduction to Data](#module-1-an-introduction-to-data)
+2. [Module 2: Data Analysis Fundamentals](#module-2-data-analysis-fundamentals)
+3. [Module 3: Getting Started with Statistics](#module-3-getting-started-with-statistics)
+4. [Module 4: Machine Learning Basics](#module-4-machine-learning-basics)
 
 
 
