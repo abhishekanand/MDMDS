@@ -2,16 +2,21 @@ Microsoft: DAT101x Introduction to Data Science
  
 Read  : https://docs.microsoft.com/en-us/azure/machine-learning/team-data-science-process/ 
 
- Introduction
- Module 1: An Introduction to Data
- Module 2: Data Analysis Fundamentals
- Module 3: Getting Started with Statistics
- Module 4: Machine Learning Basics
- Next Steps
 
 
 
-## Module 1: An Introduction to Data   
+
+# Table of Contents
+1. [Module 1: An Introduction to Data](#Module 1: An Introduction to Data)
+2. [Module 2: Data Analysis Fundamentals](#Module 2: Data Analysis Fundamentals)
+3. [Module 3: Getting Started with Statistics](#Module 3: Getting Started with Statistics)
+4. [Module 4: Machine Learning Basics](#Module 4: Machine Learning Basics)
+
+
+
+
+## Module 1: An Introduction to Data
+
 ### Exploring Data :
 #### Getting Started with Data :
 
@@ -171,10 +176,6 @@ so in this case we would reject the null hypothesis in favor of the alternative 
 
 
 #### A Handy Handout
-
-https://stattrek.com/ 
-https://docs.microsoft.com/en-us/azure/machine-learning/studio/data-science-for-beginners-the-5-questions-data-science-answers
-
 
 
 ## Module 4: Machine Learning Basics
